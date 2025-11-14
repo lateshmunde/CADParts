@@ -40,6 +40,14 @@
     <ClCompile Include="src\Pipe.cpp" />
     <ClCompile Include="src\Valve.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Screenshot 2025-11-14 201754.png" />
+    <Image Include="Screenshot 2025-11-14 201845.png" />
+    <Image Include="Screenshot 2025-11-14 201936.png" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
